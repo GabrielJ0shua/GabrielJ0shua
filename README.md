@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá, me chamo Joshua
 
-<!--
-**GabrielJ0shua/GabrielJ0shua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciências da Computação na UFU.
 
-Here are some ideas to get you started:
+### Habilidades:
+- Desenvolvo layouts em HTML5, CSS3
+- Crio scripts em C, Python3, JavaScript
+- Desenvolvo MER e DER além do próprio Banco de Dados em PostgreSQL e MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos:
+
+
+
