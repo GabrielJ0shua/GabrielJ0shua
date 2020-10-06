@@ -1,14 +1,16 @@
-## Olá, me chamo Joshua
+## Hi, my name is Joshua
 
-Sou estudante de Ciências da Computação na UFU.
+I`m student of Computer Science at UFU.
 
-### Habilidades:
-- Desenvolvo layouts em HTML5, CSS3;
-- Crio scripts em C, Python3, JavaScript;
-- Desenvolvo Banco de Dados em PostgreSQL;
-- Experiência básica em construir uma Criptomoeda.
+![good](https://64.media.tumblr.com/21342bc2293bd82726caf916c21de46d/tumblr_nq8se8m3p41qljnfoo2_540.gif)
 
-### Projetos:
+### Skills:
+- develop layouts in HTML5, CSS3;
+- Make scripts in C, Python3, JavaScript;
+- Make Banco de Dados in PostgreSQL;
+- Basic experience in build Cryptocurrency.
+
+### Projects:
 
 
 
