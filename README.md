@@ -8,9 +8,6 @@ I`m student of Computer Science at UFU.
 - develop layouts in HTML5, CSS3;
 - Make scripts in C, Python3, JavaScript;
 - Make Banco de Dados in PostgreSQL;
-- Basic experience in build Cryptocurrency.
+- Basic experience in build Cryptocurrency and Data Science.
 
 ### Projects:
-
-
-
