@@ -14,7 +14,8 @@ I`m student of Computer Science at UFU, currently training and working on Brain.
 <img align="left" alt="Django" width="35px" height="35px" src="django.svg">  <img alt="Postgresql" width="35px" height="35px" src="postgresql.svg">
 
 <br>
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielJ0shua&label=Profile%20views&color=0e75b6&style=flat" alt="Joshua" /> </p>
+### View's:
+<p> <img src="https://komarev.com/ghpvc/?username=GabrielJ0shua&label=Profile%20views&color=0e75b6&style=flat" alt="Joshua" /> </p>
 
 - Experience in Data Science in Brain - Centro de Inovação em Negócios Digitais.
 
