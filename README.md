@@ -1,6 +1,6 @@
 ## Hi, my name is Joshua
 
-I`m student of Computer Science at UFU, currently training and working on Brain.
+I`m student of Computer Science at UFU, currently training and working on Algar Telecom.
 
 ![good](https://i.giphy.com/media/bqAFYeYPCAboA/giphy.webp)
 
