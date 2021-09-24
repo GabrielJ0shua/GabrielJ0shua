@@ -1,8 +1,11 @@
-## Hi, my name is Joshua
 
-I`m student of Computer Science at UFU, currently training and working on Algar Telecom.
+<h1 align="center">Hi, my name is Gabriel Joshua</h1>
 
-![good](https://i.giphy.com/media/bqAFYeYPCAboA/giphy.webp)
+<h2 align="center">I`m student of Computer Science at UFU, currently training and working on Algar Telecom.</h2>
+
+<p align="center">
+  <img src="https://github.com/GabrielJ0shua/GabrielJ0shua/blob/master/capa.jpg">
+</p>
 
 ### Skills:
 <img align="left" alt="HTML 5" width="35px" height="35px" src="html5.svg"> <img align="left" alt="CSS 3" width="35px" height="35px" src="css3.svg">
@@ -18,5 +21,6 @@ I`m student of Computer Science at UFU, currently training and working on Algar 
 <p> <img src="https://komarev.com/ghpvc/?username=GabrielJ0shua&label=Profile%20views&color=0e75b6&style=flat" alt="Joshua" /> </p>
 
 - Experience in Data Science in Brain - Centro de Inovação em Negócios Digitais.
+- Experience in NetDevOps in Algar Telecom.
 
 ### Projects:
