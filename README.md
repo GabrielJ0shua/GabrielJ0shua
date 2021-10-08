@@ -21,6 +21,6 @@
 <p> <img src="https://komarev.com/ghpvc/?username=GabrielJ0shua&label=Profile%20views&color=0e75b6&style=flat" alt="Joshua" /> </p>
 
 - Experience in Data Science in Brain - Centro de Inovação em Negócios Digitais.
-- Experience in NetDevOps in Algar Telecom.
+- Experience in DevOps and NetDevOps in Algar Telecom.
 
 ### Projects:
