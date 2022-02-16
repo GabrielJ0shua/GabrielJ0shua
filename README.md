@@ -9,7 +9,7 @@
 
 ### Skills:
 
-<img align="left" alt="Node-red" width="35px" height="35px" src="node-red-icon.png"> <img alt="Python 3" width="35px" height="35px" src="python.svg"> <img alt="DevOps" width="35px" height="35px" src="devops.png">  
+<img align="left" alt="Node-red" width="35px" height="35px" src="node-red-icon.png"> <img alt="Python 3" width="35px" height="35px" src="python.svg"> <img alt="DevOps" width="65px" height="45px" src="devops.png">  
 <br>
 <img align="left" alt="HTML 5" width="35px" height="35px" src="html5.svg"> <img align="left" alt="CSS 3" width="35px" height="35px" src="css3.svg"><img alt="javascript" width="35px" height="35px" src="javascript.svg">
 <br>
