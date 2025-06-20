@@ -1,19 +1,10 @@
 
-<h1 align="center">Hi, my name is Gabriel Joshua</h1>
+# Hi, my name is Gabriel Joshua
 
-<h2 align="center">I`m student of Computer Science at UFU.</h2>
+### I`m student of Computer Science at UFU.
 
-### Skills:
+A Computer Science graduate from the Federal University of Uberlândia. I was part of CEPES, where I was responsible for setting up the database of budget information for the municipalities in the Triângulo Mineiro and Alto-Paranaíba mesoregions to generate information reports. Soon after, I interned in cutting-edge research focused on networks at Brain, where I worked with AI and Churn projects, preventive maintenance, and automation. After that, I was hired at COR (Network Operations Coordination) at Algar Telecom, playing a key role in network automation, including chatbot projects, automation of creating new customer accesses and error handling, Data Analytics on plant equipment, and database administration for ETLs. Then I started doing exclusive contracting projects where I had clients in the USA. The work was focused on setting up automated systems for monitoring and supporting the application using free software with an emphasis on application analytics to create metrics. Throughout my career, projects were managed using Scrum and agile methods.
 
-<img align="left" alt="Node-red" width="35px" height="35px" src="node-red-icon.png"> <img alt="Python 3" width="35px" height="35px" src="python.svg"> <img alt="DevOps" width="66px" height="45px" src="devops.png">  
-<br>
-<img align="left" alt="HTML 5" width="35px" height="35px" src="html5.svg"> <img align="left" alt="CSS 3" width="35px" height="35px" src="css3.svg"><img alt="javascript" width="35px" height="35px" src="javascript.svg">
-<br>
 
-<img align="left" alt="Django" width="35px" height="35px" src="django.svg">  <img alt="Postgresql" width="35px" height="35px" src="postgresql.svg">
-
-<br></br>
-- Experience in Data Science in Brain - Centro de Inovação em Negócios Digitais.
-- Experience in DevOps and NetDevOps in Algar Telecom.
-
-### Projects:
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,spring,git,c,vim,r,postgres,flask,django,bitbucket,bash,arduino,git,angular&theme=dark&perline=6)](https://skillicons.dev)
