@@ -7,4 +7,4 @@ A Computer Science graduate from the Federal University of Uberlândia. I was pa
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,spring,git,c,vim,r,postgres,flask,django,bitbucket,bash,arduino,git,angular&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,spring,git,c,vim,r,postgres,flask,django,bitbucket,bash,arduino,git,angular&theme=dark&perline=6)](https://skillicons.dev)
